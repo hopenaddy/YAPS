@@ -26,6 +26,7 @@
 * TwitterBootstrap3
 * Tornado
 * ChromeDevTools
+* WebSockets
 
 ### Репозиторії, де містяться компоненти нашого проекту
 
@@ -37,7 +38,7 @@
 
 *https://github.com/monsert/NotificationDispatcher*
 
-*https://github.com/hopenaddy/WebClient*
+*https://github.com/switchUA/WebClient*
 
 *https://github.com/hopenaddy/Client_application*
 
