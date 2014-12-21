@@ -11,7 +11,6 @@
 ### Технології, використані при розробці проекту 
 * Python
 * Django
-* SublimeText
 * HTML
 * CSS
 * Ajax
@@ -25,7 +24,6 @@
 * Twisted
 * TwitterBootstrap3
 * Tornado
-* ChromeDevTools
 * WebSockets
 
 ### Репозиторії, де містяться компоненти нашого проекту
