@@ -8,6 +8,8 @@
 
 ## Функціональна схема
 
+![yaps](https://cloud.githubusercontent.com/assets/8973906/5564447/09b033ec-8eca-11e4-867b-b40245c95c87.jpg)
+
 ### Технології, використані при розробці проекту 
 * Python
 * Django
