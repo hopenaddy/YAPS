@@ -42,7 +42,7 @@
 
 *https://github.com/hopenaddy/Client_application*
 
-*https://github.com/hopenaddy/AdminUI*
+*https://github.com/hopenaddy/AdminUI/tree/view*
 
 *https://github.com/switchUA/reporting*
 
